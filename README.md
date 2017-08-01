@@ -1,0 +1,2 @@
+# collect_url_google
+在google搜索结果中提取目标URL和Title
